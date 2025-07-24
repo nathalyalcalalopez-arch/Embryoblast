@@ -2,10 +2,10 @@ let questions = [];
 let current = 0;
 
 const stages = [
-  "assets/etapa1.png", // Espermatozoide
-  "assets/etapa2.png", // Mórula
-  "assets/etapa3.png", // Embrión
-  "assets/etapa4.png"  // Bebé
+  "assets_etapa1.png", // Espermatozoide
+  "assets_etapa2.png", // Mórula
+  "assets_etapa3.png", // Embrión
+  "assets_etapa4.png"  // Bebé
 ];
 const stageLabels = [
   "Espermatozoide", "Mórula", "Embrión", "Bebé"
